@@ -1,4 +1,4 @@
-# Starter Kit for build React with Redux and redux-thunk
+# A boilerplate to start React with Redux and redux-thunk
 
 ## How to run this?
 1. Clone the repo `git clone git@github.com:antonifs/react-redux-boilerplate.git`
